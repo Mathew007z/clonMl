@@ -1,0 +1,40 @@
+.home-contain{
+    height: 350px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.center-banner{
+    width: 80%;
+    margin: 0 auto;
+    height: 90px;
+    background-color:#fff;
+    margin-top: 35px;
+    box-shadow: 1px 1px 1px 1px rgba(126, 126, 126, 0.1);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cart-contain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons-banner{
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.titles-banner{
+    margin-left: 20px;
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+
+
+.links-banner{
+    color: rgb(0, 97, 209);
+}
